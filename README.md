@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am a final-year Computer Science student at Minerva University, passionate about rapidly prototyping and building innovative products that solve real-world problems efficiently and effectively.
+I am a final-year Computer Science student at Minerva University, passionate about rapidly prototyping and building innovative products that solve real-world problems efficiently and effectively. On track to become a Cracked developer!
 
 ## 🚀 What I'm Up To
 
