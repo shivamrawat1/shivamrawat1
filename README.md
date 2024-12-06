@@ -6,7 +6,7 @@ I am a final-year Computer Science student at Minerva University, passionate abo
 
 ## 🚀 What I'm Up To
 
-- 🤖 Working as Machine Learning Intern at Free University.
+- 🤖 Working as Machine Learning Intern at Freie University, Berlin.
 - 💻 Building CauseCanvas 
 
 Check out my [coding portfolio!](https://shivamrawat1.com/)
