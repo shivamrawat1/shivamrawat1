@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am a CS new grad from Minerva University, passionate about rapidly prototyping and building innovative products that solve real-world problems efficiently and effectively. On track to become a *Cracked* developer!
+Engineer @LiteLLM
 
 ## 🚀 What I'm Up To
 
