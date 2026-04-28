@@ -6,8 +6,7 @@ Engineer @LiteLLM
 
 ## 🚀 What I'm Up To
 
-- 🤖 Working as a Machine Learning Intern at Freie University, Berlin.
-- 💻 Building Techtonic  
+FDE @LiteLLM
 
 Check out my [coding portfolio!](https://shivamrawat1.com/)
 
